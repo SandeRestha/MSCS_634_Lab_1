@@ -1,0 +1,2 @@
+Dropped column: Wind_Speed_mph
+Remaining columns: Date, Temp_Max_F, Temp_Min_F, Humidity_%, Precipitation_in
